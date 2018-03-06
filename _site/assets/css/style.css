@@ -32,7 +32,3 @@ article,h1,h2,h3 {
   height: auto;
   z-index: -100;
 }
-.positioning {
-	position:relative !important;
-	color: #4A4A4A;
-}
