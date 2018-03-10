@@ -1,1 +1,12 @@
 /* your styles go here */
+body {
+	background:#f1f1f1;
+	font-size: 0.9375rem;
+line-height: 1.73;
+}
+.slider{
+	height:35rem;
+}
+.image-fixed {
+	width:60%;
+}
